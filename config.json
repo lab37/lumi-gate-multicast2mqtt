@@ -1,7 +1,7 @@
 {
     "mqttClientID": "multicast2mqtt",
-    "mqttServer": "192.168.31.96:1883",
-    "mqttUserName": "lab37",
-    "mqttPassword": "142857",
+    "mqttServer": "192.168.31.196:1883",
+    "mqttUserName": "aaaa",
+    "mqttPassword": "P@ssw0rd",
     "mqttTopic": "homeassistant/security/gate/motion"
 }
